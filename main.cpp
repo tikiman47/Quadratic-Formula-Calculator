@@ -1,6 +1,6 @@
 // Quadratic Function calculator
 // Originally by @tikiman14
-// This project is open source and can be ediited freely!
+// This project is open source and can be edited freely!
 
 #include <iostream>
 #include <fstream>
