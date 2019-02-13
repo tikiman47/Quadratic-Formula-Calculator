@@ -1,4 +1,4 @@
-// Quadratic Function calculator
+// Quadratic Function Calculator
 // Originally by @tikiman47
 // This project is open source and can be edited freely!
 
